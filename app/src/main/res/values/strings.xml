@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Labo3</string>
+    <string name="open_activity">Open Activity</string>
+    <string name="share">Share</string>
+</resources>
